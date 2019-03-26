@@ -29,4 +29,4 @@ JAVA | V.1.1 | - | -
 ---
 
 **KOLOM PENDAFTARAN**
-[LOGIN](/Dock/Exampel/login.md)
+[LOGIN](/Tutorial.html/Dock/Exampel/Login.md)
