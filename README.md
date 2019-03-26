@@ -9,5 +9,4 @@ HTML | V.1.1 | - | -
 JAVA | V.1.1 | - | - 
 
 ---
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Tutorial.html](Dock/scr)Format: ![logo](https://github.com/kumpulan-script-instal/Tutorial.html/blob/master/Dock/scr/download.png%20(48%C3%9790))
