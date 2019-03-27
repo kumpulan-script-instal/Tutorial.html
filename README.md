@@ -30,6 +30,8 @@ JAVA | V.1.1 | - | -
 
 **KOLOM PENDAFTARAN**
 
-[LOGIN](/Dock/Exampel/Login.md)
+♡ [LOGIN](/Dock/Exampel/Login.md)
 
-[DOCUMENT](https://github.com/kumpulan-script-instal/Tutorial.html/tree/master/Dock)
+♡ [DOCUMENT](https://github.com/kumpulan-script-instal/Tutorial.html/tree/master/Dock)
+
+♡ [POLICIES](https://github.com/kumpulan-script-instal/Tutorial.html/blob/master/LICENSE)
