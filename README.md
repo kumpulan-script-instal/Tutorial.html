@@ -35,3 +35,5 @@ JAVA | V.1.1 | - | -
 ♡ [DOCUMENT](https://github.com/kumpulan-script-instal/Tutorial.html/tree/master/Dock)
 
 ♡ [POLICIES](https://github.com/kumpulan-script-instal/Tutorial.html/blob/master/LICENSE)
+
+♡ [TENTANG KAMI](https://github.com/kumpulan-script-instal/Tutorial.html/blob/master/TentangKami.md)
