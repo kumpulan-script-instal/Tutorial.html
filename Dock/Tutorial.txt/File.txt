@@ -1,0 +1,93 @@
+*PILIH FAIL*
+(TAG)
+----------------------
+<form action="index.php" enctype="multipart/form-data">
+ Select a file to upload: <input type="file" name="selectedfile" />
+</form>
+----------------------
+
+*LOAD DOCUMENT*
+(TAG)
+--------------------------
+<!DOCTYPE html>
+<html>
+<body>
+<button onclick="myFunction()">Load new document</button>
+
+<script>
+function myFunction() {
+  location.assign( " https://drive.google.com/folderview?id=1PP7jDrskXFOPlVkSTHoda9Q22yMye5Bd");
+}
+</script>
+</body>
+</html>
+-------------------
+
+*LOGIN FORM*
+(TAG)
+------------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+form { 
+  display: block;
+  margin-top: 0em;
+}
+<meta charset="ISO-8859-1">
+</style>
+</head>
+<body>
+<p> SELAMAT DATANG</p>
+</form>
+<form>
+    <select>
+<option value="Login">Login</option>
+        <option value="Aplikasi">Aplikasi</option>
+        <option value="Tutorial">Tutorial</option>
+        <option value="Index">Index</option>
+        <option value="Tag">Tag</option>
+    </select>
+</form>
+<form>
+<form action="/action_page.php">
+Email: <input type="text" Name="Email" value=""><br>
+Nama Depan: <input type="text" name="NamaDepan" value=""><br>
+Nama Belakang: <input type="text" name="NamaBelakang" value=""><br>
+Password: <input type="password" name="password" value=""><br><input type="reset" value="reset"><br><input type="submit" value="Submit">
+</form>
+<p>aplikasi & kolaborasi untuk Developed. </p>
+</body>
+</html>
+--------------------------
+
+*KODE NAMA*
+(TAG)
+
+-------------------------
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Cllik untuk mencari aplikasi anda. </p>
+
+<button onclick="myFunction()">App-Id</button>
+
+<p url="AppCodeName"></p>
+<button onclick="myFunction()"Login</button>
+<p id="https://github.com/buatapkolshop"></p>
+<script>
+function myFunction() {
+  var x = "Browser CodeName: " + navigator.appCodeName;}
+document.getElementById("https://readme.io/Apps-Android.html").innerHTML = x;
+}
+<script>
+function myFunction(){ var x="Browser CodeId:"+ navigator.Id;} document.getElementById("Github.com/buatapkolshop.html").innerHTML = x;
+}
+</script>
+
+------------------
+
+kami akan mengupdate TAG yang lebih Baik lagi CONTENT:(JANGAN TINGALKAN HALAMAN INI)
