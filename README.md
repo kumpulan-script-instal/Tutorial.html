@@ -34,6 +34,6 @@ JAVA | V.1.1 | - | -
 
 ♡ [DOCUMENT](https://github.com/kumpulan-script-instal/Tutorial.html/tree/master/Dock)
 
-♡ [POLICIES](https://github.com/kumpulan-script-instal/Tutorial.html/blob/master/LICENSE)
+♡ [BUATAPKOLSHOP.LICENSE](https://github.com/kumpulan-script-instal/LICENSE/blob/master/Dock/License_version/L.v2.1.md)
 
 ♡ [TENTANG KAMI](https://github.com/kumpulan-script-instal/Tutorial.html/blob/master/TentangKami.md)
