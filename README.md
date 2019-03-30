@@ -9,7 +9,11 @@ HTML | V.1.1 | - | -
 JAVA | V.1.1 | - | - 
 
 ---
-![Tutorial Java & html](Dock/Tutorial)Format: ![logo](https://github.com/kumpulan-script-instal/Tutorial.html/blob/master/Dock/scr/download.png%20(48%C3%9790))
+![Tutorial Java ](Dock/Tutorial)Format: ![logo](https://github.com/kumpulan-script-instal/Tutorial.html/blob/master/Dock/scr/download.png%20(48%C3%9790))
+
+---
+
+![Tutorial html](Dock/Tutorial)Format: ![logo](https://drive.google.com/file/d/1-SUJosDB8lill4qpuLA45EHnojyNfL1p/view?usp=drivesdk)
 
 ---
 
