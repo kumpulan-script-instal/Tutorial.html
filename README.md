@@ -7,7 +7,8 @@ KATEGORI | VERSI | URL | KETERANGAN
 --------- |---------- | ---------- | ----------
 HTML | V.1.1 | - | - 
 JAVA | V.1.1 | - | - 
-TUTORIAL | ~ | - |
+TUTORIAL | ~ | - | -
+USAGE CSS | V1.2 | [Link](https://github.com/kumpulan-script-instal/Tutorial.html/blob/master/usage.csv) | 
 
 ---
 ![Tutorial Java ](Dock/Tutorial)Format: ![logo](https://github.com/kumpulan-script-instal/Tutorial.html/blob/master/Dock/scr/download.png%20(48%C3%9790))
