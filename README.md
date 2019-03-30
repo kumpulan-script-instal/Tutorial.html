@@ -13,7 +13,7 @@ JAVA | V.1.1 | - | -
 
 ---
 
-![Tutorial html](Dock/Tutorial)Format: ![logo](https://drive.google.com/file/d/1-SUJosDB8lill4qpuLA45EHnojyNfL1p/view?usp=drivesdk)
+![Tutorial html](Dock/Tutorial)Format: ![logo](https://github.com/kumpulan-script-instal/Tutorial.html/blob/master/Dock/scr/images.jpeg%20(225%C3%97225))
 
 ---
 
