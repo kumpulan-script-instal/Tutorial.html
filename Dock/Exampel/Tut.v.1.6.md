@@ -43,4 +43,3 @@
 <div>
 <a href="https://earth.app.goo.gl/?">♡ LIHAT PETA ANDA</a>
 <div>
-
